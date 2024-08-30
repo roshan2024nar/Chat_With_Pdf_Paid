@@ -77,7 +77,7 @@ def handle_userinput(user_question):
 
 
 def main():
-    load_dotenv()
+    openai_api_key = st.secrets["OPENAI_API_KEY"]
     st.set_page_config(page_title="Chat with PDF", page_icon=":books:")
     st.write(css, unsafe_allow_html=True)
 
