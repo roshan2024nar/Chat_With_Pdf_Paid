@@ -8,7 +8,6 @@ anyio
 async-timeout
 attrs
 backcall
-backports.zoneinfo
 blinker
 cachetools
 certifi
