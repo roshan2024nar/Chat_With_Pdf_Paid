@@ -4,8 +4,8 @@ def image_to_base64(image_path):
     with open(image_path, "rb") as img_file:
         return base64.b64encode(img_file.read()).decode('utf-8')
 
-user_image_base64 = image_to_base64("images/bot.png")
-bot_image_base64 = image_to_base64("images/human.png")
+user_image_base64 = image_to_base64("bot.png")
+bot_image_base64 = image_to_base64("human.png")
 
 
 
