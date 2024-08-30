@@ -79,7 +79,7 @@ plotly==5.23.0
 prompt_toolkit==3.0.39
 protobuf==3.20.3
 psutil==5.9.4
-pure_eval==0.3.0
+pure_eval
 pyarrow==17.0.0
 pydantic==1.11.0
 pydeck==0.9.1
