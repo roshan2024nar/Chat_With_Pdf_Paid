@@ -81,7 +81,7 @@ protobuf==3.20.3
 psutil==5.9.4
 pure_eval
 pyarrow==17.0.0
-pydantic==1.11.0
+pydantic
 pydeck==0.9.1
 Pygments==2.15.1
 Pympler==1.1
