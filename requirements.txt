@@ -126,7 +126,7 @@ torchvision
 tornado
 tqdm==4.66.5
 traitlets==5.9.0
-transformers==4.45.0
+transformers
 typing-inspect==0.9.0
 typing_extensions==4.9.0
 tzdata==2024.1
